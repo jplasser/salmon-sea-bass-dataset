@@ -6,4 +6,6 @@ and using openCV to get the coordinates of the dots, respectively the x-vectors 
 
 When using this resource, please cite:
 
-Jürgen R. Plasser. "SSBDS-I" (version 0.1). (2021). 
+Jürgen R. Plasser. "SSBDS-I" (version 0.1). (2021). https://doi.org/10.5281/zenodo.4739354
+
+[![DOI](https://zenodo.org/badge/364645409.svg)](https://zenodo.org/badge/latestdoi/364645409)
